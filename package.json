@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "nes.css": "^2.3.0"
+  }
+}
